@@ -2,7 +2,7 @@
 
 This checklist helps to ensure that our projects meet our Engineering Fundamentals.
 
-## Source Control
+## 코드 관리
 
 - [ ] The default target branch is locked.
 - [ ] Merges are done through PRs.

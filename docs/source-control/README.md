@@ -1,8 +1,8 @@
-# Source Control
+# 코드 관리
 
-There are many options when working with Source Control. In [CSE](../CSE.md) we use [AzureDevOps](https://azure.microsoft.com/en-us/services/devops/) for private repositories and [GitHub](https://github.com/) for public repositories.
+There are many options when working with 코드 관리. In [CSE](../CSE.md) we use [AzureDevOps](https://azure.microsoft.com/en-us/services/devops/) for private repositories and [GitHub](https://github.com/) for public repositories.
 
-## Sections within Source Control
+## Sections within 코드 관리
 
 * [Merge Strategies](merge-strategies.md)
 * [Branch Naming](naming-branches.md)
@@ -40,7 +40,7 @@ When working on an existing project, `git clone` the repository and ensure you u
 
 ## Mixed DevOps Environments
 
-For most engagements having a single hosted DevOps environment (i.e. AzureDevOps) is the preferred path but there are times when a mixed DevOps environment (i.e. AzureDevOps for Agile/Work item tracking & GitHub for Source Control) is needed due to customer requirements. When working in a mixed environment:
+For most engagements having a single hosted DevOps environment (i.e. AzureDevOps) is the preferred path but there are times when a mixed DevOps environment (i.e. AzureDevOps for Agile/Work item tracking & GitHub for 코드 관리) is needed due to customer requirements. When working in a mixed environment:
 
 * Manually tag PR's in work items
 * Ensure that the scope of work items / tasks align with PR's

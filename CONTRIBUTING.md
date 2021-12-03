@@ -111,7 +111,7 @@ prompted the pull request.
 ### Merging strategy
 
 The preferred merging strategy for this repo is **linear**.
-You can familiarize yourself with [merging strategies](docs/source-control/merge-strategies.md) described in the Source Control section of this repo.
+You can familiarize yourself with [merging strategies](docs/source-control/merge-strategies.md) described in the 코드 관리 section of this repo.
 
 ## Adding a new section
 

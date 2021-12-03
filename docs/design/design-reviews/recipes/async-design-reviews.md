@@ -25,7 +25,7 @@ The concept is to have the design follow the same workflow as any code changes t
 
 ### Prerequisites
 
-#### Source Controlled Design Docs
+#### 코드 관리led Design Docs
 
 Design documentation must live in a source control repository that supports pull requests (i.e. git). The following guidelines can be used to determine what repository houses the docs
 

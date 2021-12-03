@@ -58,7 +58,7 @@ A [breakdown of sections](docs/SPRINT-STRUCTURE.md) according to the structure o
 * [Engineering Feedback](docs/engineering-feedback/README.md)
 * [Observability](docs/observability/README.md)
 * [Security](docs/security/README.md)
-* [Source Control](docs/source-control/README.md)
+* [코드 관리](docs/source-control/README.md)
 * [Reliability](docs/reliability/README.md)
 
 ## Fundamentals for Specific Technology Areas
