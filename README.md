@@ -1,3 +1,6 @@
+# 펀엔씨 개발 가이드 문서
+
+* 누구나 문서는 수정 가능합니다.
 # CSE Code-With Customer/Partner Engineering Playbook
 
 An engineer working for a [CSE](docs/CSE.md) project...
