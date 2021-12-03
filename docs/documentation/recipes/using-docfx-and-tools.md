@@ -137,7 +137,7 @@ Below is a good configuration to start with, where documentation is in the **/do
         "template": [ "templates/cse" ],
         "globalMetadata": {
             "_appTitle": "CSE Documentation",
-            "_enableSearch": true
+            "_enableSearch": false
         },
         "markdownEngineName": "markdig",
         "dest": "_site",
