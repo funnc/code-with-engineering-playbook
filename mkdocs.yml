@@ -1,9 +1,9 @@
-site_name: Code With Engineering Playbook
-site_url: https://microsoft.github.io/code-with-engineering-playbook
+site_name: 펀엔씨 개발 가이드
+site_url: https://funnc.github.io/code-with-engineering-playbook
 site_description: CSE Code With Engineering Playbook
 site_author: Microsoft CSE
 
-repo_url: https://github.com/microsoft/code-with-engineering-playbook/
+repo_url: https://github.com/funnc/code-with-engineering-playbook/
 edit_uri: ""
 
 theme:
