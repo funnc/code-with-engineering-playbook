@@ -31,7 +31,7 @@ The following tools and guidelines are aimed at achieving experimentation goals 
 ## Tools and guidelines for successful model experimentation
 
 - [Virtual environments](#virtual-environments)
-- [Source control and folder/package structure](#source-control-and-folder-package-structure)
+- [코드 관리 and folder/package structure](#source-control-and-folder-package-structure)
 - [Experiment tracking](#experiment-tracking)
 - [Datasets and models abstractions](#datasets-and-models-abstractions)
 - [Model evaluation](#model-evaluation)
@@ -65,7 +65,7 @@ In CSE, we often choose from either `venv`, `Conda` or `Poetry`, depending on th
 - Collaboration
 - Reproducibility
 
-### Source control and folder/package structure
+### 코드 관리 and folder/package structure
 
 Applied ML projects often contain source code, notebooks, devops scripts, documentation, scientific resources, datasets and more. We recommend coming up with an agreed folder structure to keep resources tidy. Consider deciding upon a generic folder structure for projects (e.g. which contains the folders `data`, `src`, `docs` and `notebooks`), or adopt popular structures like the [CookieCutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) folder structure.
 
@@ -77,7 +77,7 @@ Applied ML projects often contain source code, notebooks, devops scripts, docume
 - [.gitignore](https://git-scm.com/docs/gitignore) file determining which folders should be synced with `git` and which should be kept locally. For example, [this one](https://github.com/drivendata/cookiecutter-data-science/blob/master/%7B%7B%20cookiecutter.repo_name%20%7D%7D/.gitignore).
 - Determine how notebooks are stored and versioned (e.g. [strip output from Jupyter notebooks](https://github.com/kynan/nbstripout))
 
-#### Source control and folder structure benefits
+#### 코드 관리 and folder structure benefits
 
 - Collaboration
 - Reproducibility
